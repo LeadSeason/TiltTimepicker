@@ -1,4 +1,4 @@
-# TiltTimepicker :D
+<h1 align="center"> TiltTimepicker :D</h1>
 <p align="center">Pick the time and date by tilting the slider</p>
 <p align="center">Live demo @<a href="https://leadseason.eu/badui/" target="_blank" rel="noopener noreferrer">LeadSeason.eu</a></p>
 <p  align="center">
